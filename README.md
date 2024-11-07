@@ -19,16 +19,16 @@ In this game I designed, the player can press many keys on the keyboard to inter
 - Motion animation of Plate position:
   - The position of the plane object can be translated based on key input. In this animation, when you press the up, down, left and right arrow keys, the plane moves along a certain axis.
 - Bounce animation of Random Boxes:
-  -When the W,A, and S keys are pressed separately, the blocks will have different animation effects in the vertical direction, they will move up and down the Z axis, and they will smoothly bounce up and down through the lerp() function.
+  - When the W,A, and S keys are pressed separately, the blocks will have different animation effects in the vertical direction, they will move up and down the Z axis, and they will smoothly bounce up and down through the lerp() function.
 - Rotating animation of the scene:
-  -The entire scene rotates 90 degrees when the user presses the R key. The rotation is done by rotateScene method, and I use lerp() function to make the rotation process smooth, rather than abruptly jump to a new direction.
+  - The entire scene rotates 90 degrees when the user presses the R key. The rotation is done by rotateScene method, and I use lerp() function to make the rotation process smooth, rather than abruptly jump to a new direction.
 - Color change animation:
-  -Color gradient: Through the toggleColorChange function, the color of the plane and the square changes randomly.
+  - Color gradient: Through the toggleColorChange function, the color of the plane and the square changes randomly.
 
 3. References of inspiration for code
 
-- About the way it moves![An image of a lemon](https://dribbble.com/shots/6867072-Animated-lemon-driving-on-a-skateboard?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Animated+lemon+driving+on+a+skateboard.&utm_medium=Social_Share)
+- About the way it moves![An image of a lemon](https://dribbble.com/shots/6867072-Animated-lemon-driving-on-a-skateboard?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Animated+lemon+driving+on+a+skateboard.&utm_medium=Social_Share](https://cdn.dribbble.com/users/3880666/screenshots/6867072/lemon-animation-800x600.gif)
   -It's "Animated lemon driving on a skateboard." I took inspiration from the way the lemons slide, adding a slow motion to the overall movement.
 
-- About the way it bounce up and down![An image of a ball](https://dribbble.com/shots/14140510-Loading?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Loading&utm_medium=Social_Share)
+- About the way it bounce up and down![An image of a ball](https://dribbble.com/shots/14140510-Loading?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Loading&utm_medium=Social_Share](https://cdn.dribbble.com/users/4082794/screenshots/14140510/media/a41f4081199205aca2916e15baa86253.gif)
   -This is a gif about loading. I got inspiration from this gif and changed the normal sliding up and down into a simple bouncing animation effect.
