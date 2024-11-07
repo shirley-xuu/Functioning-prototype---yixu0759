@@ -27,8 +27,10 @@ In this game I designed, the player can press many keys on the keyboard to inter
 
 3. References of inspiration for code
 
-- About the way it moves![An image of a lemon](https://cdn.dribbble.com/users/3880666/screenshots/6867072/lemon-animation-800x600.gif)
-  -It's "Animated lemon driving on a skateboard." I took inspiration from the way the lemons slide, adding a slow motion to the overall movement.
+- About the way it moves
+- ![An image of a lemon](https://cdn.dribbble.com/users/3880666/screenshots/6867072/lemon-animation-800x600.gif)
+  - It's "Animated lemon driving on a skateboard." I took inspiration from the way the lemons slide, adding a slow motion to the overall movement.
 
-- About the way it bounce up and down![An image of a ball](https://cdn.dribbble.com/users/4082794/screenshots/14140510/media/a41f4081199205aca2916e15baa86253.gif)
-  -This is a gif about loading. I got inspiration from this gif and changed the normal sliding up and down into a simple bouncing animation effect.
+- About the way it bounce up and down
+- ![An image of a ball](https://cdn.dribbble.com/users/4082794/screenshots/14140510/media/a41f4081199205aca2916e15baa86253.gif)
+  - This is a gif about loading. I got inspiration from this gif and changed the normal sliding up and down into a simple bouncing animation effect.
